@@ -19,5 +19,10 @@ The Threat Classification Model is a machine learning system designed to analyze
 
 Contributions to the Threat Classification Model project are welcome! If you have any suggestions, bug reports, or would like to add new features, please submit a pull request. Ensure that you follow the established coding style and include appropriate tests.
 
+## License
+
+The Threat Classification Model is released under the MIT License. You are free to modify and use the model for both commercial and non-commercial purposes.
+
 ## Contact
+
  If you have any questions, feedback, or inquiries, please contact us at rahaankit2001@gmail.com
