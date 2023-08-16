@@ -11,7 +11,7 @@ The Threat Classification Model is a machine learning system designed to analyze
 
 ## Usage
 
-- Open the jupyter file and run the cells and jupyter will download the libraries.
+- Open the jupyter file and then run the cells and jupyter will download the libraries.
 - Prepare the audio input in a compatible format (e.g., WAV or MP3).
 - Upload the csv files in the same folder as jupyter notebook.
 
